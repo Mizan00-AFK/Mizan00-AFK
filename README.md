@@ -1,5 +1,8 @@
 # 💫 About Me:
-🎓 Mahasiswa D4 Komputasi Statistik <br>      di Politeknik Statistika STIS<br>💻 Minat Web Development <br>      (Frontend, Backend, Fullstack)<br>⚙️ Belajar aplikasi web & REST API<br>🚀 Fokus sistem fungsional dan scalable
+🎓 Mahasiswa D4 Komputasi Statistik di Politeknik Statistika STIS<br>
+💻 Minat Web Development (Frontend, Backend, Fullstack)<br>
+⚙️ Belajar aplikasi web & REST API<br>
+🚀 Fokus sistem fungsional dan scalable
 
 
 ## 🌐 Socials:
