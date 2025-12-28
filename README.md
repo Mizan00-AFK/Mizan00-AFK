@@ -64,7 +64,7 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananda-mizan-ali-a552b43a1/">
+  <a href="https://www.linkedin.com/in/ananda-mizan-ali-a552b43a1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;&nbsp;
@@ -72,13 +72,13 @@
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:anandamizanali@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:anandamizanali@gmail.com" target= "_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Anandamizanali" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/anandamizanali">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  <a href="https://instagram.com/anandamizanali" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Anandamizanali" />
+</a>
 </p>
 
 <p align="center">
