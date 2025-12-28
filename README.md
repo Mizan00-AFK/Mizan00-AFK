@@ -64,22 +64,23 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ananda-mizan-ali-a552b43a1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/ananda-mizan-ali-a552b43a1/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Mizan00-AFK">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:anandamizanali@gmail.com" target= "_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail Anandamizanali" />
+  <a href="mailto:anandamizanali@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://instagram.com/anandamizanali" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram Anandamizanali" />
-</a>
+  <a href="https://instagram.com/anandamizanali">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
 </p>
+
 
 <p align="center">
   Thank you for visiting. I’m open to collaboration and professional discussions. 😊
