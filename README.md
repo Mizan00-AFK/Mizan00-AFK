@@ -55,7 +55,7 @@
 
 <table>
 <tr align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mizan00-AFK&theme=vue-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mizan00-AFK&theme=vue-dark&hide_border=true" />
 </tr>
 </table>
 
